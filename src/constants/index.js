@@ -18,11 +18,9 @@ import {
   olliepickett,
   onet,
   starlight,
-  dateme,
   mikeshop,
   mikecollection,
   threejs,
-  josh,
   mimi,
   avatar,
 } from "../assets";
@@ -145,16 +143,16 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Isaac has proven to be one of the best, creative and passionate Software developers in Fiverr",
-    name: "James Kelvin",
+      "Eugenia is one of the great and passionate Software developers in Fiverr. It was great working with Eugenia.",
+    name: "Thomas Kelvin",
     designation: "Digital Marketer",
     company: "Headstart",
     image: avatar,
   },
   {
     testimonial:
-      "After Isaac optimized our website, we gained more traffic by 70%. We can't thank him enough!",
-    name: "Mercy Dave",
+      "I can highly recommend working with Eugenia.Not only is working with her enjoyable, she was also dedicated.",
+    name: "Mercy Duke",
     designation: "Product Manager",
     company: "Osetty",
     image: avatar,
@@ -162,28 +160,6 @@ const testimonials = [
 ];
 
 const projects = [
-  {
-    name: "Dateme",
-    description:
-      "Dateme is a web dating application that allows users from different countries or continent to find love, make friends and meet new people. It makes it easier to find soul mate ",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "stripe",
-        color: "green-text-gradient",
-      },
-      {
-        name: "styled-components",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: dateme,
-    source_code_link: "",
-    live_demo_link: "http://dateme.onrender.com",
-  },
   {
     name: "E-Shop",
     description:
